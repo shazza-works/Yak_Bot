@@ -1,0 +1,170 @@
+{
+  "1": {
+    "question": "Which one is the largest ocean in the World?\n(a)Indian\n(b)Pacific\n(c)Atlantic\n(d)Arctic\n",
+    "answer": "b",
+    "more_info": "https//en.wikipedia.org/wiki/World_Ocean",
+    "user_response": "None"
+  },
+  "2": {
+    "question": "Dead Sea is located between which two countries?\n(a)Jordan and Sudan\n(b)Jordan and Israel\n(c)Turkey and UAE\n(d)UAE and Egypt\n",
+    "answer": "b",
+    "more_info": "https//en.wikipedia.org/wiki/Dead_Sea",
+    "user_response": "None"
+  },
+  "3": {
+    "question": "Which country gifted the 'Statue of Liberty' to USA in 1886?\n(a)French\n(b)Canada\n(c)Brazil\n(d)England\n",
+    "answer": "a",
+    "more_info": "https//en.wikipedia.org/wiki/Statue_of_Liberty",
+    "user_response": "None"
+  },
+  "4": {
+    "question": "In which ocean 'Bermuda Triangle' region is located?\n(a)Atlantic\n(b)Indian\n(c)Pacific\n(d)Arctic\n",
+    "answer": "a",
+    "more_info": "https//en.wikipedia.org/wiki/Bermuda_Triangle",
+    "user_response": "None"
+  },
+  "5": {
+    "question": "Which one is the largest producer of tea in the World?\n(a)China\n(b)Sri Lanka\n(c)India\n(d)Kenya\n",
+    "answer": "a",
+    "more_info": "https//en.wikipedia.org/wiki/Tea",
+    "user_response": "None"
+  },
+  "6": {
+    "question": "Earth day is celebrated on?\n(a)September 17\n(b)February 16\n(c)April 4\n(d)April 22\n",
+    "answer": "d",
+    "more_info": "https//www.earthday.org/about/the-history-of-earth-day/",
+    "user_response": "None"
+  },
+  "7": {
+    "question": "Where the headquaters of World Wide Fund for Nature (WWF)located?\n(a)Canada\n(b)Switzerland\n(c)Germany\n(d)USA\n",
+    "answer": "b",
+    "more_info": "https//en.wikipedia.org/wiki/World_Wide_Fund_for_Nature",
+    "user_response": "None"
+  },
+  "8": {
+    "question": "Which country is the largest producer of cotton?\n(a)India\n(b)Pakistan\n(c)Brazil\n(d)China\n",
+    "answer": "d",
+    "more_info": "https//www.worldatlas.com/articles/top-cotton-producing-countries-in-the-world.html",
+    "user_response": "None"
+  },
+  "9":{
+    "question": "With which of the following books did Arthur Conan Doyle make his literary debut?\n(a)A Study in Scarlet\n(b)The Surgeon of Gaster Fell\n(c)The Lost World\n(d)The Adventures of Sherlock Holmes\n",
+    "answer": "b",
+    "more_info": "https//www.orderofbooks.com/authors/sir-arthur-conan-doyle/",
+    "user_response": "None"
+  },
+  "10": {
+    "question": "In what part of the body would you find the fibula?\n(a)Leg\n(b)Arm\n(c)Ear\n(d)Man Meat",
+    "answer": "a",
+    "more_info": "a=Leg",
+    "user_response": "None"
+   },
+  "11": {
+    "question": "Hamilton has become one of the biggest musical theatre shows of all time since it debuted in 2015, but what is the name of the acclaimed star who wrote it?\n(a)Mike Soskjaer\n(b)Lin-Manuel Miranda\n(c)Renée Zellweger\n(d)Austin Powers",
+    "answer": "b",
+    "more_info": "b=Lin-Manuel Miranda",
+    "user_response": "None"
+   },
+  "12": {
+    "question": "If you have cryophobia what are you afraid of?\n(a)Ice and cold\n(b)Ice lakes\n(c)People who cry\n(d)Flying",
+    "answer": "a",
+    "more_info": "a=Ice/cold",
+    "user_response": "None"
+   },
+  "13": {
+    "question": "Who won the Best Actress Award at the most recent Oscars (2020)?\n(a)Clint Eastwood\n(b)Rami Malek\n(c)Renée Zellweger\n(d)Olivia Colman",
+    "answer": "c",
+    "more_info": "c=Renée Zellweger",
+    "user_response": "None"
+   },
+  "14": {
+    "question": "How many of Henry VIII’s wives were called Catherine?\n(a)3\n(b)8\n(c)6\n(d)1",
+    "answer": "a",
+    "more_info": "a=3",
+    "user_response": "None"
+   },
+  "15": {
+    "question": "According to ONS what was the most popular boy’s name in the UK in 2018?\n(a)Mark\n(b)Tim\n(c)Alex\n(d)Oliver",
+    "answer": "d",
+    "more_info": "d=Oliver",
+    "user_response": "None"
+   },
+  "16": {
+    "question": "Ray Davies was the frontman on which iconic ’60s band?\n(a)Oasis\n(b)The Kinks\n(c)Weatus\n(d)Wham!",
+    "answer": "b",
+    "more_info": "b=The Kinks",
+    "user_response": "None"
+   },
+  "17": {
+    "question": "Which popular video game franchise has released games with the subtitles World At War and Black Ops?\n(a)Bio Shock\n(b)GTA 5\n(c)PUBG\n(d)Call of Duty",
+    "answer": "d",
+    "more_info": "d=Call of Duty",
+    "user_response": "None"
+   },
+  "18": {
+    "question": "In what US State is the city Nashville?\n(a)Florida\n(b)Tennessee\n(c)Hawaii\n(d)Delaware",
+    "answer": "b",
+    "more_info": "b=Tennessee",
+    "user_response": "None"
+   },
+  "19": {
+    "question": "Which rock band was founded by Trent Reznor in 1988?\n(a)The Who\n(b)Jazz Cats\n(c)Soul Boys\n(d)Nine Inch Nails",
+    "answer": "d",
+    "more_info": "d=Nine Inch Nails",
+    "user_response": "None"
+   },
+  "20": {
+    "question": "What’s the chemical symbol for silver?\n(a)Sv\n(b)Ss\n(c)Ag\n(d)Sg",
+    "answer": "c",
+    "more_info": "c=Ag",
+    "user_response": "None"
+   },
+  "21": {
+    "question": "With what sport would you associate Sachin Tendulkar?\n(a)Clay Shooting\n(b)Swimming\n(c)Football\n(d)Cricket",
+    "answer": "d",
+    "more_info": "d=Cricket",
+    "user_response": "None"
+   },
+  "22": {
+    "question": "What is the capital city of Switzerland?\n(a)Burn\n(b)Zurich\n(c)Geneva\n(d)Freiburg",
+    "answer": "a",
+    "more_info": "a=Bern",
+    "user_response": "None"
+   },
+  "23": {
+    "question": "Which legendary actor played Jimmy Hoffa in Martin Scorsese’s 2019 film The Irishman?\n(a)Jim Cary\n(b)Jack Nicholson\n(c)Al Pacino\n(d)Michael Caine",
+    "answer": "c",
+    "more_info": "c=Al Pacino",
+    "user_response": "None"
+   },
+  "24": {
+    "question": "Ataulfo Alphonso and Keitt are varieties of what fruit?\n(a)Apple\n(b)Orange\n(c)Grape\n(d)Mango",
+    "answer": "d",
+    "more_info": "d=Mango",
+    "user_response": "None"
+   },
+  "25": {
+    "question": "In what modern day country was Nikola Tesla born?\n(a)Croatia\n(b)USA\n(c)France\n(d)Poland",
+    "answer": "a",
+    "more_info": "a=Croatia",
+    "user_response": "None"
+   },
+  "26": {
+    "question": "What is the smallest planet in our solar system?\n(a)Mars\n(b)Neptune\n(c)Venus\n(d)Mercury",
+    "answer": "d",
+    "more_info": "d=Mercury",
+    "user_response": "None"
+   },
+  "27": {
+    "question": "Who wrote the novels Gone Girl and Sharp Objects?\n(a)Alex Fox\n(b)Gillian Flynn\n(c)Bon Ferrel\n(d)Charles Dickens",
+    "answer": "b",
+    "more_info": "b=Gillian Flynn",
+    "user_response": "None"
+   },
+  "28": {
+    "question": "What is seven cubed?\n(a)343\n(b)212\n(c)414\n(d)434",
+    "answer": "a",
+    "more_info": "a=343",
+    "user_response": "None"
+   }
+}
